@@ -591,4 +591,8 @@ a_prefix##reverse_iter(a_trp_type *treap, a_type *start, a_type *(*cb)(	\
 	  cb, arg));							\
     }									\
 }
+
+
+
+
 #endif /* TRP_H_ */
